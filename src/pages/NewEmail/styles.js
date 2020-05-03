@@ -1,7 +1,6 @@
 import styled from 'styled-components/native';
 import { StyleSheet } from 'react-native';
 
-import Icon from 'react-native-vector-icons/MaterialIcons';
 import { RectButton } from 'react-native-gesture-handler';
 
 import {

@@ -7,6 +7,11 @@ import IconCommunity from 'react-native-vector-icons/MaterialCommunityIcons';
 import IconAnt from 'react-native-vector-icons/AntDesign';
 
 import {
+  heightPercentageToDP as hp,
+  widthPercentageToDP as wp,
+} from 'react-native-responsive-screen';
+
+import {
   NavigationContainer,
   Container,
   SubjectText,
@@ -37,10 +42,10 @@ export default function ReadEmail({ navigation, route }) {
       headerRight: () => (
         <View style={{ flexDirection: 'row' }}>
           <NavigationContainer onPress={handleDelete}>
-            <IconAnt name="delete" size={26} />
+            <IconAnt name="delete" size={hp(4)} />
           </NavigationContainer>
-          <NavigationContainer>
-            <IconCommunity name="email-outline" size={26} color="#333" />
+          <NavigationContainer style={{ marginRight: wp(4) }}>
+            <IconCommunity name="email-outline" size={hp(4)} color="#333" />
           </NavigationContainer>
         </View>
       ),
@@ -66,7 +71,7 @@ export default function ReadEmail({ navigation, route }) {
         <NavigationContainer style={{ marginRight: 20 }}>
           <Icon
             name="reply"
-            size={32}
+            size={hp(5)}
             color="#777"
             onPress={() =>
               navigation.navigate('New', {
