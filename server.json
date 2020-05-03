@@ -1,0 +1,114 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "sender": "Dulcie Serrano",
+      "senderEmail": "dulceserrano1234321@gmail.com",
+      "subject": "O Lorem Ipsum",
+      "message": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano de 1500, quando uma misturou os caracteres de um texto para criar um espécime de livro. Este texto não só sobreviveu 5 séculos, mas também o salto para a tipografia electrónica, mantendo-se essencialmente inalterada. Foi popularizada nos anos 60 com a disponibilização das folhas de Letraset, que continham passagens com Lorem Ipsum, e mais recentemente com os programas de publicação como o Aldus PageMaker que incluem versões do Lorem Ipsum.",
+      "time": "18:00",
+      "read": false,
+      "color": "#715"
+    },
+    {
+      "id": 2,
+      "sender": "Buster Blackburn",
+      "senderEmail": "nusternlackburn1234321@gmail.com",
+      "subject": "Gmail",
+      "message": "O Lorem Ipsum um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano de 1500, quando uma misturou os caracteres de um texto para criar um espécime de livro. Este texto não só sobreviveu 5 séculos, mas também o salto para a tipografia electrónica, mantendo-se essencialmente inalterada. Foi popularizada nos anos 60 com a disponibilização das folhas de Letraset, que continham passagens com Lorem Ipsum, e mais recentemente com os programas de publicação como o Aldus PageMaker que incluem versões do Lorem Ipsum.",
+      "time": "17:25",
+      "read": false,
+      "color": "#257"
+    },
+    {
+      "id": 3,
+      "sender": "Lilian Dias",
+      "senderEmail": "liliandias1234321@gmail.com",
+      "subject": "Texto modelo",
+      "message": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano de 1500, quando uma misturou os caracteres de um texto para criar um espécime de livro. Este texto não só sobreviveu 5 séculos, mas também o salto para a tipografia electrónica, mantendo-se essencialmente inalterada. Foi popularizada nos anos 60 com a disponibilização das folhas de Letraset, que continham passagens com Lorem Ipsum, e mais recentemente com os programas de publicação como o Aldus PageMaker que incluem versões do Lorem Ipsum.",
+      "time": "17:11",
+      "read": false,
+      "color": "#555"
+    },
+    {
+      "id": 4,
+      "sender": "Connie Currie",
+      "senderEmail": "conniecurrie34321@gmail.com",
+      "subject": "Lorem Ipsum",
+      "message": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano de 1500, quando uma misturou os caracteres de um texto para criar um espécime de livro. Este texto não só sobreviveu 5 séculos, mas também o salto para a tipografia electrónica, mantendo-se essencialmente inalterada. Foi popularizada nos anos 60 com a disponibilização das folhas de Letraset, que continham passagens com Lorem Ipsum, e mais recentemente com os programas de publicação como o Aldus PageMaker que incluem versões do Lorem Ipsum.",
+      "time": "13:41",
+      "read": false,
+      "color": "#881"
+    },
+    {
+      "id": 5,
+      "sender": "Curtis Davenport",
+      "senderEmail": "curtisdavenport4321@gmail.com",
+      "subject": "Lorem",
+      "message": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano de 1500, quando uma misturou os caracteres de um texto para criar um espécime de livro. Este texto não só sobreviveu 5 séculos, mas também o salto para a tipografia electrónica, mantendo-se essencialmente inalterada. Foi popularizada nos anos 60 com a disponibilização das folhas de Letraset, que continham passagens com Lorem Ipsum, e mais recentemente com os programas de publicação como o Aldus PageMaker que incluem versões do Lorem Ipsum.",
+      "time": "10:31",
+      "read": false,
+      "color": "#257"
+    },
+    {
+      "id": 6,
+      "sender": "Burhan Gilbert",
+      "senderEmail": "burhangilbert34321@gmail.com",
+      "subject": "Ipsum",
+      "message": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano de 1500, quando uma misturou os caracteres de um texto para criar um espécime de livro. Este texto não só sobreviveu 5 séculos, mas também o salto para a tipografia electrónica, mantendo-se essencialmente inalterada. Foi popularizada nos anos 60 com a disponibilização das folhas de Letraset, que continham passagens com Lorem Ipsum, e mais recentemente com os programas de publicação como o Aldus PageMaker que incluem versões do Lorem Ipsum.",
+      "time": "09:17",
+      "read": false,
+      "color": "#500"
+    },
+    {
+      "id": 7,
+      "sender": "Alexandria Ellwood",
+      "senderEmail": "alexandriaellwood4321@gmail.com",
+      "subject": "Indústria tipográfica",
+      "message": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano de 1500, quando uma misturou os caracteres de um texto para criar um espécime de livro. Este texto não só sobreviveu 5 séculos, mas também o salto para a tipografia electrónica, mantendo-se essencialmente inalterada. Foi popularizada nos anos 60 com a disponibilização das folhas de Letraset, que continham passagens com Lorem Ipsum, e mais recentemente com os programas de publicação como o Aldus PageMaker que incluem versões do Lorem Ipsum.",
+      "time": "08:34",
+      "read": false,
+      "color": "#182"
+    },
+    {
+      "id": 8,
+      "sender": "Safia Thomson",
+      "senderEmail": "safiathomson34321@gmail.com",
+      "subject": "Impressão",
+      "message": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano de 1500, quando uma misturou os caracteres de um texto para criar um espécime de livro. Este texto não só sobreviveu 5 séculos, mas também o salto para a tipografia electrónica, mantendo-se essencialmente inalterada. Foi popularizada nos anos 60 com a disponibilização das folhas de Letraset, que continham passagens com Lorem Ipsum, e mais recentemente com os programas de publicação como o Aldus PageMaker que incluem versões do Lorem Ipsum.",
+      "time": "07:10",
+      "read": false,
+      "color": "#397"
+    },
+    {
+      "id": 9,
+      "sender": "Clementine Amin",
+      "senderEmail": "clementineamin4321@gmail.com",
+      "subject": "Ipsum é um",
+      "message": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano de 1500, quando uma misturou os caracteres de um texto para criar um espécime de livro. Este texto não só sobreviveu 5 séculos, mas também o salto para a tipografia electrónica, mantendo-se essencialmente inalterada. Foi popularizada nos anos 60 com a disponibilização das folhas de Letraset, que continham passagens com Lorem Ipsum, e mais recentemente com os programas de publicação como o Aldus PageMaker que incluem versões do Lorem Ipsum.",
+      "time": "06:18",
+      "read": false,
+      "color": "#052"
+    },
+    {
+      "id": 10,
+      "sender": "Lauryn Jimenez",
+      "senderEmail": "laurynjimenez4321@gmail.com",
+      "subject": "Welcome to Ipsum",
+      "message": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano de 1500, quando uma misturou os caracteres de um texto para criar um espécime de livro. Este texto não só sobreviveu 5 séculos, mas também o salto para a tipografia electrónica, mantendo-se essencialmente inalterada. Foi popularizada nos anos 60 com a disponibilização das folhas de Letraset, que continham passagens com Lorem Ipsum, e mais recentemente com os programas de publicação como o Aldus PageMaker que incluem versões do Lorem Ipsum.",
+      "time": "05:47",
+      "read": false,
+      "color": "#812"
+    },
+    {
+      "id": 11,
+      "sender": "Edison Mcguire",
+      "senderEmail": "edisonmcguire34321@gmail.com",
+      "subject": "Welcome to Gmail",
+      "message": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano de 1500, quando uma misturou os caracteres de um texto para criar um espécime de livro. Este texto não só sobreviveu 5 séculos, mas também o salto para a tipografia electrónica, mantendo-se essencialmente inalterada. Foi popularizada nos anos 60 com a disponibilização das folhas de Letraset, que continham passagens com Lorem Ipsum, e mais recentemente com os programas de publicação como o Aldus PageMaker que incluem versões do Lorem Ipsum.",
+      "time": "04:18",
+      "read": false,
+      "color": "#881"
+    }
+  ]
+}
